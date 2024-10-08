@@ -50,12 +50,3 @@ To add AstroMusic to your Discord server and start enjoying your favorite tunes,
 
 Here's an image that provides an illustration of AstroMusic in action:
 
-<img style="width: 50%;" src="https://media.discordapp.net/attachments/1113676076732911761/1144333970432086026/Screen_Shot_2023-08-23_at_1.png?width=416&height=292" alt="AstroMusic Illustration">
-
-## Conclusion
-
-AstroMusic brings the joy of music to your Discord server. With its support for multiple platforms and user-friendly controls, you and your server members can immerse yourselves in the world of music without any hassle.
-
-For detailed information about the available commands and how to make the most of AstroMusic, refer to the bot's documentation and help resources.
-
-Feel the rhythm with AstroMusic today!
